@@ -34,7 +34,7 @@ Seçilen diyet türüne göre kullanıcıya örnek bir günlük menü sunulur.
 
 ### 6. Egzersiz Türü Seçimi
 
-Kullanıcı, yapmak istediği egzersiz türünü seçer. Örneğin, aerobik, kardiyo, ağırlık antrenmanları vb.
+Kullanıcı, yapmak istediği egzersiz türünü seçer. Örneğin: bisiklet sürme ,ip atlama , kardiyo vb.
 
 ### 7. Egzersiz Bilgileri ve Günlük Hedef
 
